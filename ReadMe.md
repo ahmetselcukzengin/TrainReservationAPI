@@ -3,6 +3,7 @@ Projeyi Releases altındaki Publish dosyasını indirdikten sonra "TrainReservat
 Proje ayağa kalktığında bu şekilde gözükecektir:
 ![image](https://user-images.githubusercontent.com/73847397/153709243-594adc23-9605-4b47-b899-676670341773.png)
 
+Aşağıdaki durumları test edebilirsiniz.
 Durum1:
 ![image](https://user-images.githubusercontent.com/73847397/153709328-c7ffcd12-7fe1-4d43-bc6b-04ddd86e04dc.png)
 Durum2:
