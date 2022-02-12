@@ -1,6 +1,6 @@
 Projeyi Releases altındaki Publish dosyasını indirdikten sonra "TrainReservationAPI.exe"'i çalıştırarak ayağa kaldırabilirsiniz.
 
-Proje ayağa kalktığında b şekilde gözükecektir:
+Proje ayağa kalktığında bu şekilde gözükecektir:
 ![image](https://user-images.githubusercontent.com/73847397/153709243-594adc23-9605-4b47-b899-676670341773.png)
 
 Durum1:
